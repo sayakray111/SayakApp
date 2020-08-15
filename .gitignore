@@ -1,0 +1,13 @@
+node_modules
+.next
+.env*.local
+.env
+.vercel
+coverage
+.idea/codeStyles/codeStyleConfig.xml
+.idea/codeStyles/Project.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/unimap.iml
+.idea/vcs.xml
